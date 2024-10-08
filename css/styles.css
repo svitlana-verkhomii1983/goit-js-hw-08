@@ -6,12 +6,6 @@ body {
     background-color: #fafafa;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
 .gallery {
     display: flex;
     flex-wrap: wrap;
